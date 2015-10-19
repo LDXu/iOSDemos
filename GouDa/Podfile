@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+pod "AFNetworking"
+pod 'SVProgressHUD'
+pod 'Masonry'
+pod 'SSKeychain'
+pod 'ActionSheetPicker-3.0'
+pod 'AMap2DMap'
+pod 'VVBlurPresentation'
+pod 'REFrostedViewController'
